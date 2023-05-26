@@ -56,7 +56,7 @@ body {
 h2 {
 	font-size: 24px;
 	text-transform: uppercase;
-	color: #28ace5;
+	color: #000000;
 	font-weight: 600;
 	margin-bottom: 30px;
 }
@@ -64,7 +64,7 @@ h2 {
 h4 {
 	font-size: 19px;
 	line-height: 1.375em;
-	color: #28ace5;
+	color: #000000;
 	font-weight: 400;
 	margin-bottom: 30px;
 }  
@@ -102,7 +102,7 @@ h4 {
 }
 
 .navbar-nav li a:hover, .navbar-nav li.active a {
-	color: #28ace5 !important;
+	color: #DA291C !important;
 	background-color: #fff !important;
 }
 
@@ -155,7 +155,7 @@ footer .glyphicon {
 .phone_bg1 {
   background-image: url("../images/phone.png"); /* The image used */
   background-size: 450px 550px;
-  background-color: #ffffff; /* Used if the image is unavailable */
+  background-color: #818181; /* Used if the image is unavailable */
   height: 600px; /* You must set a specified height */
   background-repeat: no-repeat; /* Do not repeat the image */
 }
@@ -163,7 +163,7 @@ footer .glyphicon {
 .phone_bg2 {
   background-image: url("../images/phone.png"); /* The image used */
   background-size: 450px 550px;
-  background-color: #ffffff; /* Used if the image is unavailable */
+  background-color: #818181; /* Used if the image is unavailable */
   height: 600px; /* You must set a specified height */
   background-repeat: no-repeat; /* Do not repeat the image */
   margin-left:150px;
@@ -238,7 +238,7 @@ footer .glyphicon {
 
 
 .chat-box1 {
-  background: #efefef;
+  background: #818181;
   position:relative;
   top:18px;
   left:102px; 
